@@ -1,4 +1,5 @@
 --Not yet used, but incase. Yes. Again, if the original got taken down -tomtep01
+--Currently source version 5.9 as of writing this part -tomtep01
 if IY_LOADED and not _G.IY_DEBUG == true then
 	-- error("Infinite Yield is already running!",0)
 	return
